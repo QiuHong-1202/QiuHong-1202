@@ -2,10 +2,11 @@
 
 - [My CS Document Site](https://qiuhong-1202.github.io/)
 
+<!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=QiuHong-1202&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--
+
 **QiuHong-1202/QiuHong-1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
